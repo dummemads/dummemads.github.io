@@ -1,0 +1,26 @@
+
+}
+#footer{
+	height: 5%;
+	width:100%;
+	display: bottom;
+	/*background-color: yellow;*/
+}
+#leftFooter{
+	width: 33.3333%;
+	text-align: center;
+	
+}
+#rightFooter{
+	width: 33.3333%;
+	text-align: center;
+	
+}
+#midleFooter{
+	width: 33.3333%;
+	text-align: center;
+}
+* {cursor: none;}
+#image{
+position:absolute;
+}
